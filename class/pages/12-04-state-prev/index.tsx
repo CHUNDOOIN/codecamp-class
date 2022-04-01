@@ -6,8 +6,6 @@ export default function StatePrevPage() {
     setCount((prev) => prev + 1);
     setCount((prev) => prev + 1);
     setCount((prev) => prev + 1);
-    setCount((prev) => prev + 1);
-    setCount((prev) => prev + 1);
   };
   return (
     <div>

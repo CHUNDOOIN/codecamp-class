@@ -1,5 +1,5 @@
 // 여기는 프리젠터 컴포넌트
-import { ChangeEvent } from "react";
+// import { ChangeEvent } from "react";
 import { SubmitButton, WriterInput } from "./BoardWrite.styles";
 import { IBoardWriteUIProps } from "./BoardWrite.types";
 
